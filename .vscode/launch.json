@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Q1",
+            "request": "launch",
+            "mainClass": "Q1",
+            "projectName": "Java Lab_bc354044"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise1",
+            "request": "launch",
+            "mainClass": "Exercise1",
+            "projectName": "Java Lab_bc354044"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sort",
+            "request": "launch",
+            "mainClass": "sort",
+            "projectName": "Java Lab_bc354044"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - first",
+            "request": "launch",
+            "mainClass": "first"
+        }
+    ]
+}
