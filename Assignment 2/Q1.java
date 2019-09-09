@@ -5,7 +5,6 @@ public class Q1{
         Primes a = new Primes();
         int prime1 = 0;
         int prime2 = 0;
-        // System.out.print(a.checkForPrime(4));
         for (int i=1;i<=10;i++){
             if (a.checkForPrime(i) && prime1 == 0){
                 prime1 = i;
@@ -18,10 +17,6 @@ public class Q1{
                 prime1 = prime2;
                 prime2 = 0;
             }
-            else {
-                // System.out.println(i);
-            }
-            // System.out.println("("+prime1+", "+prime2+")");
         }
     }
 }
