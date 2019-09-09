@@ -3,8 +3,11 @@ package primespackage;
 import java.lang.Math;
 
 public class Primes {
-    boolean checkForPrime(int n) {
-        for (int i = 0;i < Math.sqrt(n); i++){
+    public boolean checkForPrime(int n) {
+        if (n==1){
+            return false;
+        }
+        for (int i = 2;i <= n/2; i++){
             if (n%i==0){
                 return false;
             }
