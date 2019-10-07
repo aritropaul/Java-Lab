@@ -1,0 +1,8 @@
+Donor 1
+----------------
+Name: Aritro
+Address: Vellore
+Contact: 98474
+Blood Group: A+
+Date: Sun Aug 01 00:00:00 IST 2004
+
