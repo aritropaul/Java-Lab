@@ -1,11 +1,14 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="Q3-2:war exploded">
+  <artifact type="exploded-war" build-on-make="true" name="Q3-2:war exploded">
     <output-path>$PROJECT_DIR$/out/artifacts/Q3_2_war_exploded</output-path>
     <root id="root">
       <element id="javaee-facet-resources" facet="Q3-2/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="Q3-2" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="javax.servlet:javax.servlet-api:4.0.1" />
         </element>
       </element>
     </root>

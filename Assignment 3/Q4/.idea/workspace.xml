@@ -2,13 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0339924-1ec8-431b-9c8d-2d31db188da6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Q3/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Q3/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/.idea/artifacts/Q2_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/Q2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/web/Page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/web/p1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/web/p2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/.idea/artifacts/Q3_2_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/.idea/libraries/javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/Q3-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/src/webapp/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/web/result.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Q3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +61,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/mysql-connector-java-5.1.46-bin.jar!/" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -91,6 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572679636697</updated>
       <workItem from="1572679637996" duration="1450000" />
+      <workItem from="1572718568693" duration="136000" />
     </task>
     <servers />
   </component>
@@ -102,7 +120,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

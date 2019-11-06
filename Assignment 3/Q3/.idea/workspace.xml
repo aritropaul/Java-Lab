@@ -2,7 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/.idea/artifacts/Q2_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/Q2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/out/artifacts/Q2_war_exploded/Page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/out/artifacts/Q2_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/out/artifacts/Q2_war_exploded/p1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/out/artifacts/Q2_war_exploded/p2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/web/Page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/web/p1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q2/web/p2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/.idea/artifacts/Q3_2_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/.idea/libraries/javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/Q3-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/src/webapp/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q3-2/web/result.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment 4/Q4/Q4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaFxApplication/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Q4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,10 +123,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PATH_TO_FX$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/javafx-sdk-11.0.2/lib" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
@@ -129,7 +165,7 @@
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="sample.Main" />
       <module name="Q3" />
-      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules javafx.controls,javafx.fxml" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules javafx.controls" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sample.*" />
@@ -193,6 +229,9 @@
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1570536381969" duration="597000" />
       <workItem from="1572676386671" duration="829000" />
+      <workItem from="1572718490614" duration="67000" />
+      <workItem from="1573038606833" duration="128000" />
+      <workItem from="1573042215980" duration="131000" />
     </task>
     <servers />
   </component>
